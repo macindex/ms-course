@@ -34,8 +34,7 @@ build/
 
 ### Eclipse ###
 
-.metadata
+.metadata/
 
-### Mac ###
+.gitignore
 
-.DS_Store
